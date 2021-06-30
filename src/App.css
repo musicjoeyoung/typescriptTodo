@@ -1,0 +1,18 @@
+html {
+  background: white;
+}
+.mainDiv {
+  border: 1px solid black;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  border-radius: 22px;
+}
+ul {
+  list-style-type: none;
+}
+.todoList {
+  text-align: left;
+  width: 50%;
+  margin: auto;
+}
